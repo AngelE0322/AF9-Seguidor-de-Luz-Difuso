@@ -1,0 +1,10 @@
+﻿Luz izquierda,Luz derecha,Correccion (grados),Sentido
+0,0,0.0,Sin correccion
+50,50,0.0,Sin correccion
+100,100,0.0,Sin correccion
+100,0,-4.166666666666665,Izquierda
+0,100,4.166666666666666,Derecha
+70,30,-1.9428479660960372,Izquierda
+30,70,1.942847966096033,Derecha
+55,50,-0.8270343580470153,Izquierda
+50,55,0.8270343580470217,Derecha
